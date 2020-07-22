@@ -21,4 +21,5 @@ Name's Andreas Stensig and I'm a Danish computer science engineer located in Den
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Polyglot Technology Stack](https://dev.to/itminds/a-polyglot-technology-stack-56ld)
 <!-- BLOG-POST-LIST:END -->
