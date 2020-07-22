@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **denDAY04/denDAY04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +17,6 @@ Name's Andreas Stensig and I'm a software engineer (M.Sc Eng - CSE) located in D
 - 👯 I’m looking to collaborate on ... anything Java! (maybe Go and Rust in the future)
 - 📫 How to reach me: Check profile links
 
-# Blog posts
+## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
